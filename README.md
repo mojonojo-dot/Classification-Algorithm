@@ -25,3 +25,4 @@ The example is based on a dataset that is publicly available from the UCI Machin
   Preprocessing<br>
 ### Accuracy
 |SVM|96%|
+|--- |--- |
