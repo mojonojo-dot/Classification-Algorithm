@@ -19,10 +19,7 @@ The example is based on a dataset that is publicly available from the UCI Machin
 ## Libraries Used
   Pandas<br>
   Numpy<br>
-  Pylab<br>
   Matplotlib.pyplot<br>
-  train_test_split<br>
-  Preprocessing<br>
 ### Accuracy
 |SVM|96%|
 |--- |--- |
